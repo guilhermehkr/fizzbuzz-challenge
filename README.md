@@ -1,6 +1,7 @@
 ### Tech stack
 - Java 8
 - Maven 3.5.2
+- Springboot 2.x
 
 ### Running it
 The following command will run the set of tests and start the app
