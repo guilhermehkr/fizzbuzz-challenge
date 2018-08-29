@@ -1,5 +1,3 @@
-## Step 3
-
 ### Tech stack
 - Java 8
 - Maven 3.5.2
@@ -18,8 +16,4 @@ To play FizzBuzz, please hit this endpoint
 This solution does not support large number such as `Integer.MAX_VALUE` or `Integer.MIN_VALUE`
 
 ### Improvements
-Configure spring test to pick up all available beans so that a few integration tests will break automatically when a new rule is added
-
-
-### Version
-_Version number: 66cdbdfc45765549d65a1950f31d02bf24a58608_
+Configure spring test to pick up all available beans so that a few integration tests will break automatically when a new rule or report is added
